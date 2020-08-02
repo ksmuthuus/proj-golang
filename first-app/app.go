@@ -1,3 +1,4 @@
+// Credit: https://sysadmins.co.za/build-small-golang-docker-containers/
 package main
 
 import (
